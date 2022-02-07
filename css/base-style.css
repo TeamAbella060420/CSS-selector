@@ -53,7 +53,5 @@ label {
 		width: auto;
         display: inline-block;
 	}
-    .btn + .btn {
-        margin-left: 20px;
-    }
+   
 }
