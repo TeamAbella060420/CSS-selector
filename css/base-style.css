@@ -48,8 +48,12 @@ label {
 
 /* Media Queries -------------------- */
 
-@media (max-width: 768px) {
-	#container {
-		width: 92%;
+@media (max-width: 769px) {
+	.inln {
+		width: auto;
+        display: inline-block;
 	}
+    .btn + .btn {
+        margin-left: 20px;
+    }
 }
