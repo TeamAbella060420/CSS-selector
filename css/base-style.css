@@ -49,9 +49,6 @@ label {
 /* Media Queries -------------------- */
 
 @media (max-width: 769px) {
-	.inln {
-		width: auto;
-        display: inline-block;
-	}
+	
    
 }
