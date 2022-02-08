@@ -62,6 +62,8 @@ a[target="_blank"] {
     background-color: #ff784f;
 }
 
+/* Media Queries -------------------- */
+
 @media (min-width: 769px) {
     .inln {
         width: auto;
@@ -71,6 +73,7 @@ a[target="_blank"] {
         margin-left: 20px;
     }
 }
+
 /* Combibators  ------------- */
 
 form > a {
